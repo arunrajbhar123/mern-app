@@ -9,7 +9,8 @@
     * /reset/passowrd
     * /profile
 #
-### Accept Routes for (Oauth)
+### Accept Routes for (Oauth) 
+# Todo
 
     * /auth/google
     * /auth/twitter
